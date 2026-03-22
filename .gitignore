@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Dependencies
+node_modules
+
+# Logs
+*.log
+
+# OS
+.DS_Store
