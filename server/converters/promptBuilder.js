@@ -16,6 +16,7 @@ RULES:
 
 1. INTEREST & DIVIDENDS (BIGGEST DIFFERENCE)
 
+
 US GAAP (strict, rule-based):
   - Interest paid → ALWAYS Operating
   - Interest received → ALWAYS Operating
