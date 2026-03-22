@@ -1,5 +1,6 @@
 # FlowBridge
 
+
 A full-stack cash flow statement converter between IFRS and US GAAP accounting standards. Paste or upload a cash flow statement in one standard, and FlowBridge converts it to the other — highlighting key classification differences like interest, dividends, leases, and taxes.
 
 ## Features
